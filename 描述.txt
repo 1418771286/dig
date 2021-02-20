@@ -1,0 +1,23 @@
+网址：https://www.datafountain.cn/datasets/5198
+
+
+
+Employee ID：为每个员工分配的唯一ID（例如：fffe390032003000）
+
+Date of Joining：员工加入组织的日期时间（例如：2008-12-30）
+
+Gender：员工性别（男/女）(1/0)
+
+Company Type：员工所在公司的类型（服务/产品）(1/0)
+
+WFH Setup Available：员工是否可以在家中工作（是/否）(1/0)
+
+Designation：组织中工作人员的指定。在[0.0，5.0]的范围内，更大的表示。
+
+Resource Allocation：分配给员工上班的资源量，即 工作时间数。在[1.0，10.0]范围内（越高意味着资源越多）
+
+Mental Fatigue Score：员工精神上面临的疲劳程度。在[0.0，10.0]的范围内，其中0.0表示无疲劳，而10.0表示完全疲劳。
+
+Burn Rate：我们需要为每个员工预测要告诉他们工作时Bur发生率的价值。在[0.0，1.0]范围内，该值越高，燃尽越多。
+
+
